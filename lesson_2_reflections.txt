@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+a new hidden git directory is created, and it is possible to commit and track changes
