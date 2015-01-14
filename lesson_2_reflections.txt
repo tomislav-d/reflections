@@ -1,7 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-a new hidden git directory is created, and it is possible to commit and track changes
+	a new hidden git directory is created, and it is possible to commit and track changes
 
 How is the staging area different from the working directory and the repository? What value do you think it offers
 
-it is part of git. it is used to transfer files from working directory which is not  part of git to git repository. 
+	it is part of git and it is between working dir and repository. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+	I can use git status to see if there are any that are not staged and commited yet
