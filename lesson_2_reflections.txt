@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 a new hidden git directory is created, and it is possible to commit and track changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers
+
+it is part of git. it is used to transfer files from working directory which is not  part of git to git repository. 
