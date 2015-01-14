@@ -8,3 +8,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	I can use git status to see if there are any that are not staged and commited yet
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	i can make different branch when i want to make some bigger changes, for example different version of project. in that case, branches can help to organize it.
